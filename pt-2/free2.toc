@@ -1,0 +1,8 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Synoptic Problem}{13}{0}{1}
+\beamer@sectionintoc {2}{Ezras}{39}{0}{2}
+\beamer@sectionintoc {3}{Daniel}{66}{0}{3}
+\beamer@sectionintoc {4}{Jeremiah}{81}{0}{4}
+\beamer@sectionintoc {5}{Implications}{90}{0}{5}
+\beamer@sectionintoc {6}{Objections}{102}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{126}{0}{7}
